@@ -1,7 +1,7 @@
 # A benchmark toward an end-to-end machine learning system for acoustic monitoring of wildlife populations and ecosystems
 
 <div align="center">
-<img class="img-fluid" src="figure.png" alt="img-verification" width="250" height="250">
+<img class="img-fluid" src="figure.png" alt="img-verification">
 </div>
 
 Current passive acoustic monitoring datasets focus on single species, limiting their use for conservation and policy. We propose collaborating with biologists and computer scientists to create a comprehensive benchmark covering various species. Standardized annotations, preprocessing, and baseline models will bridge this gap for a general ecosystem and animal population assessment system.
